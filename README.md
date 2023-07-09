@@ -11,5 +11,5 @@ The project culminates in a comprehensive report that presents the findings and 
 3) Maharashtra, Karnataka, Uttar Pradesh, and Telangana are the top 4 states.
 4) Adult age group (30-49yrs) is max contributing (~50%).
 5) Amazon, Flipkart, and Myntra are max contributing channels(~80%).
-### Conclusion to improve sales further:
+### Conclusion to improve sales further
 Target women customers of age group (30-49yrs) residing in Maharashtra, Karnataka, Uttar Pradesh and Telangana through targeted ads, enticing offers, and exclusive coupons on Amazon, Flipkart, and Myntra.
